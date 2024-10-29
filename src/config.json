@@ -11,7 +11,7 @@
 
   "//": "Here are some of the variables you may want to change:",
 
-  "PLACE_DENSITY": 0.6,
+  "PLACE_DENSITY": 0.62,
   "TNS_END_PERCENT": 100,
 
   "//": "Change the clock period here. 20000 ps = 20 ns corresponds to 50 MHz",
@@ -21,7 +21,7 @@
   "SYNTH_MEMORY_MAX_BITS": 4096,
 
   "//": "Setting to 1 may help decrease design area utilization / speed up routing:",
-  "ABC_AREA": 0,
+  "ABC_AREA": 1,
 
   "//": "Configuration docs: https://openroad-flow-scripts.readthedocs.io/en/latest/user/FlowVariables.html",
 
